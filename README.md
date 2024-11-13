@@ -19,7 +19,7 @@ I am excited to learn more and collaborate with the team to continue growing tog
 
 
 ## Hello, Devs
- <img align="left" width="80rem" src="https://raw.githubusercontent.com/andresinho20049/andresinho20049/refs/heads/master/public/avatar/Me-Avatar.png" alt="Avatar-Art" border="0">
+ <img align="left" width="70rem" src="https://raw.githubusercontent.com/andresinho20049/andresinho20049/refs/heads/master/public/avatar/Me-Avatar.png" alt="Avatar-Art" border="0">
 I graduated from FMU with a bachelor's degree in Computer Science, and I also have a technical degree from SENAI in Microcomputer Assembly and Maintenance, AWS certification and over 6 years of experience as a Software Engineer.
 
 I have experience mainly in technical skills in Java, TypeScript, JavaScript, SQL and Docker. Through my experience, I have learned to approach each project with a growth mindset, eager to contribute significantly and make a difference. I am constantly striving to improve and face new challenges, confident in my abilities to deliver high-quality work.
